@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ConnectWithMe/static/css/main.3cfe6000.css",
+    "main.js": "/ConnectWithMe/static/js/main.79ecc57a.js",
+    "index.html": "/ConnectWithMe/index.html",
+    "main.3cfe6000.css.map": "/ConnectWithMe/static/css/main.3cfe6000.css.map",
+    "main.79ecc57a.js.map": "/ConnectWithMe/static/js/main.79ecc57a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cfe6000.css",
+    "static/js/main.79ecc57a.js"
+  ]
+}
